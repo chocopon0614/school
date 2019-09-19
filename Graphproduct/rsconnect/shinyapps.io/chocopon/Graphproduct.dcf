@@ -1,0 +1,12 @@
+name: Graphproduct
+title: Graphproduct
+username:
+account: chocopon
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 616633
+bundleId: 1776473
+url: https://chocopon.shinyapps.io/Graphproduct/
+when: 1545344421.34893
+asMultiple: FALSE
+asStatic: FALSE

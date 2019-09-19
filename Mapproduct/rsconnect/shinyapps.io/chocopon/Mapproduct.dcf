@@ -1,0 +1,12 @@
+name: Mapproduct
+title: Mapproduct
+username:
+account: chocopon
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 616517
+bundleId: 1776483
+url: https://chocopon.shinyapps.io/Mapproduct/
+when: 1545344934.69115
+asMultiple: FALSE
+asStatic: FALSE
